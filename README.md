@@ -1,1 +1,1 @@
-This renders the mandelbroth set using position absolute divs. It is slow and memory intensive, as well as everything else you'd expect from thousands of divs. Check it out at http://BlackCapCoder.github.io/web-handin
+This renders the mandelbroth set using position absolute divs. It is slow and memory intensive, as well as everything else you'd expect from thousands of divs. Check it out at https://blackcapcoder.github.io/web-handin/
